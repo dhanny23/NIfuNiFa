@@ -445,6 +445,7 @@ WHERE
 	GROUP BY
     usuarios.id_usuario;
 ####25. Identifica a los usuarios que han devuelto libros con retraso en más de tres ocasiones en el último año.
+
 	SELECT
     usuarios.nombre AS Nombre_Usuario,
     usuarios.apellido AS Apellido_Usuario,
