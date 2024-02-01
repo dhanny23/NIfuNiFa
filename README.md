@@ -1,7 +1,7 @@
 # NIfuNiFa
 ![](https://qiu.itq.edu.ec/Principal/imgLogin/ITQ.png)
 
-<Center>
+
 # Proyecto Final
 ##Desarrollo en Software
 ####Asignatura: Administracion de Base de Datos
