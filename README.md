@@ -461,7 +461,7 @@ WHERE
 	< prestamos.fecha_devolucion_real
 	GROUP BY
     usuarios.id_usuario
-HAVING
+	HAVING
     Cantidad_Retrasos > 3;
 
 
